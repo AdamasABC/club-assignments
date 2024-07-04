@@ -42,7 +42,7 @@ Please carefully read these instructions before submitting your assignments:
   - University Email
   - Registration Number
  
-_You can use this template for ease._
+_You can use this [template](https://docs.google.com/document/d/1EyCucoBN1Qwe6LGM6HqvZFSV7EglFe_A6SKFU42S7ek/edit?usp=sharing) for ease._
 
 2. File Naming:
 
